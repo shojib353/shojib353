@@ -2,6 +2,6 @@
 
 
 
-Skills: c++/Java/Kotlin
+Skills: c++/Java/Kotlin/PHP/Python
 
 
