@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahoriar Shojib</h1>
 <h3 align="center">A passionate Mobile App and Backend Developer</h3>
 
-- 🌱 I’m currently learning **FastApi, Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **shojib.shojib10@gmail.com**
 
