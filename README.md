@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahoriar Shojib</h1> <h3 align="center">Backend Developer | Flutter Developer | Building Scalable APIs with Django & FastAPI</h3>
 
-🔭 I’m currently building scalable backend systems and RESTful APIs using Django REST Framework, FastAPI, and PostgreSQL
-🌱 I’m currently learning AI integration, system design, Docker, AWS, and advanced backend architecture
-💻 I enjoy developing mobile applications with Flutter and real-time applications using WebSockets
-🛠️ Tech Stack: Python, Django, FastAPI, Flutter, Dart, Kotlin, PostgreSQL, MySQL, Firebase, Docker, Git
-👯 I’m open to collaborating on Backend, Flutter, and AI-powered application projects
-💼 I'm actively seeking Remote Backend Developer (Python/Django/FastAPI) and Flutter Developer opportunities
-📫 Reach me at: shojib.shojib10@gmail.com
-⚡ Fun fact: I enjoy solving backend challenges, optimizing APIs, and building real-world applications.
+- 🔭 I’m currently building scalable backend systems and RESTful APIs using Django REST Framework, FastAPI, and PostgreSQL
+- 🌱 I’m currently learning AI integration, system design, Docker, AWS, and advanced backend architecture
+- 💻 I enjoy developing mobile applications with Flutter and real-time applications using WebSockets
+- 🛠️ Tech Stack: Python, Django, FastAPI, Flutter, Dart, Kotlin, PostgreSQL, MySQL, Firebase, Docker, Git
+- 👯 I’m open to collaborating on Backend, Flutter, and AI-powered application projects
+- 💼 I'm actively seeking Remote Backend Developer (Python/Django/FastAPI) and Flutter Developer opportunities
+- 📫 Reach me at: shojib.shojib10@gmail.com
+- ⚡ Fun fact: I enjoy solving backend challenges, optimizing APIs, and building real-world applications.
   
 -  Portfolio Link: **https://portfolio-with-django-docker.onrender.com/**
 
