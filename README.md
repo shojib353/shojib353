@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahoriar Shojib</h1> <h3 align="center">Backend Developer | Flutter Developer | Building Scalable APIs with Django & FastAPI</h3>
+<h1 align="center">Hi 👋, I'm Shahoriar Shojib</h1> <h3 align="center">Backend Developer | Building Scalable APIs with Django & FastAPI</h3>
 
 - 🔭 I’m currently building scalable backend systems and RESTful APIs using Django REST Framework, FastAPI, and PostgreSQL
 - 🌱 I’m currently learning AI integration, system design, Docker, AWS, and advanced backend architecture
